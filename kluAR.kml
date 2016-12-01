@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<name>K L University</name>
+			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.6221954,16.4423864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Girls Hostel</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/2cDQumpD7daS9ov75cAcMxHENfaXNOF5AwI8rDqrv28juzE3_dkUcVFrI-BSfAvVJjEPkRKuqQCMQeQiOdizfR4iNX1jPG4MU5En6L-1rMog1xH4PFVdi-FdiAyLNFc" height="200" width="auto" /><br><br>The girls hostel houses 1024 with a capacity of 1192 with 500 rooms. Different rooms accommodating 2 per room, 3 per room with attached toilets as well as A.C. rooms are also available. Suite rooms with modern furniture and separate study room are also available.]]></description>
+			<styleUrl>#icon-1899-C2185B</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/2cDQumpD7daS9ov75cAcMxHENfaXNOF5AwI8rDqrv28juzE3_dkUcVFrI-BSfAvVJjEPkRKuqQCMQeQiOdizfR4iNX1jPG4MU5En6L-1rMog1xH4PFVdi-FdiAyLNFc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>80.6210312,16.4429231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Administrative Block</name>
+			<description><![CDATA[- Centre for Competitive Exams<br>- Exam Department<br>- IT Department and Captive Portal]]></description>
+			<styleUrl>#icon-1899-9C27B0</styleUrl>
+			<Point>
+				<coordinates>80.6210581,16.4426761,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Computer Block Entrance</name>
+			<styleUrl>#icon-1113-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.6220532,16.4406721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mechanical Block</name>
+			<styleUrl>#icon-1590-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.6226057,16.4407132,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amul Canteen</name>
+			<styleUrl>#icon-1577-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.6226084,16.4403351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1113-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1113-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1113-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1113-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1113-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1577-AFB42B-nodesc-normal'>
+			<IconStyle>
+				<color>ff2BB4AF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1577-AFB42B-nodesc-highlight'>
+			<IconStyle>
+				<color>ff2BB4AF</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1577-AFB42B-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1577-AFB42B-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1577-AFB42B-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1590-A52714-nodesc-normal'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1590-A52714-nodesc-highlight'>
+			<IconStyle>
+				<color>ff1427A5</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1590-A52714-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1590-A52714-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1590-A52714-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-0288D1-nodesc-normal'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1899-0288D1-nodesc-highlight'>
+			<IconStyle>
+				<color>ffD18802</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1899-0288D1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-9C27B0-normal'>
+			<IconStyle>
+				<color>ffB0279C</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-9C27B0-highlight'>
+			<IconStyle>
+				<color>ffB0279C</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-9C27B0'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1899-C2185B-normal'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-1899-C2185B-highlight'>
+			<IconStyle>
+				<color>ff5B18C2</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.0</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-1899-C2185B'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1899-C2185B-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
