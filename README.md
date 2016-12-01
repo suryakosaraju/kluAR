@@ -1,2 +1,2 @@
-This is an Augmented Reality World which a newbie in Kluniversity can use for navigating around the campus. 
+This is an Augmented Reality World which a newbie in Koneru Lakshmiah University can use for navigating around the campus. 
 With over 40+ locations marked in the map, it will be easy to travel around the campus and also triangulate the desired area using the camera. For browsing the Augmented Reality world, download the Wikitude app and search "kluAR". This should bring up all the placemarks that have been set in the map as long as your LOCATION and WIFI (or) MOBILE DATA features are turned ON.
